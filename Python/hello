@@ -1,0 +1,12 @@
+name = "于麒麟"
+age = 20
+sex = "男"
+weight = 121
+high = 180
+education = "高中"
+print(name)
+print(age)
+print(sex)
+print(weight)
+print(high)
+print(education)
